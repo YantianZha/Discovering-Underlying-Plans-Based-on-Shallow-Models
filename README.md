@@ -7,6 +7,8 @@ sudo pip install smart-open
 
 sudo pip install cntk
 
+sudo pip install --upgrade gensim
+
 To run the RNNPlanner training script:
 
 To run the DUP evaluation code: 
