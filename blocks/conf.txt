@@ -1,0 +1,10 @@
+rnnModel3:
+--data_dir /home/local/ASUAD/yzha3/research/planning/shallow-plan-master/src/blocks/rnnTrain --save_dir /home/local/ASUAD/yzha3/research/planning/shallow-plan-master/src/blocks/rnnModel --num_epochs 100 --rnn_size 100
+
+rnnModel4:
+--data_dir /home/local/ASUAD/yzha3/research/planning/shallow-plan-master/src/blocks/rnnTrain --save_dir /home/local/ASUAD/yzha3/research/planning/shallow-plan-master/src/blocks/rnnModel4 --num_epochs 150 --rnn_size 400
+
+rnnModel5:
+--data_dir /home/local/ASUAD/yzha3/research/planning/shallow-plan-master/src/blocks/rnnTrain --save_dir /home/local/ASUAD/yzha3/research/planning/shallow-plan-master/src/blocks/rnnModel5 --num_epochs 250 --rnn_size 500
+
+
