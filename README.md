@@ -1,5 +1,5 @@
 # Discovering-Underlying-Plans-Based-on-Shallow-Models
-Implementation of our paper "Discovering Underlying Plans Based on Shallow Models{https://arxiv.org/abs/1803.02208}"
+Implementation of our paper "[Discovering Underlying Plans Based on Shallow Models](https://arxiv.org/abs/1803.02208)"
 
 Install Depedencies:
 
