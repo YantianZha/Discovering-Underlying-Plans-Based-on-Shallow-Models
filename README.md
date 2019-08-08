@@ -1,11 +1,13 @@
 # Discovering-Underlying-Plans-Based-on-Shallow-Models
-Implementation of our paper "Discovering Underlying Plans Based on Shallow Models"
+Implementation of our paper "[Discovering Underlying Plans Based on Shallow Models](https://arxiv.org/abs/1803.02208)"
 
 Install Depedencies:
 
 sudo pip install smart-open
 
 sudo pip install cntk
+
+sudo pip install --upgrade gensim
 
 To run the RNNPlanner training script:
 
