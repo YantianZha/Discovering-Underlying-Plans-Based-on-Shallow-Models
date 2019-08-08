@@ -1,6 +1,10 @@
 # Discovering-Underlying-Plans-Based-on-Shallow-Models
 Implementation of our paper "Discovering Underlying Plans Based on Shallow Models"
 
+Install Depedencies:
+sudo pip install smart-open
+sudo pip install cntk
+
 To run the RNNPlanner training script:
 
 To run the DUP evaluation code: 
